@@ -1,0 +1,16 @@
+*token*
+*ilabafricaapp*
+*access*
+*key*
+*credentials*
+
+
+*.env
+.env.*
+!.env.example
+
+/notes
+/secrets
+*.crt 
+*.log
+*.sql
